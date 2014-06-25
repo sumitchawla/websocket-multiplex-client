@@ -1,0 +1,21 @@
+{
+    "name"        : "websocket-multiplex-client",
+    "author"      : "Sumit Chawla",
+    "version"     : "0.0.1",
+    "description" : "webSocket-multiplex-client is a nodeJs wrapper on client component of Websocket-multiplex. This helps for writing full end-to-end unit test cases in nodejs",
+    "keywords"    : ["websockets", "websocket", "sockjs", "multiplex-client", "multiplexing-client"],
+    "homepage"    : "https://github.com/sumitkchawla/websocket-multiplex-client",
+    "repository": {"type": "git",
+                   "url": "https://github.com/sumitkchawla/websocket-multiplex-client.git"},
+    "dependencies": {
+        "websocket-multiplex" : "*",
+        "jsdom" : "0.11.0"
+    },
+    "devDependencies" : {
+      "sockjs": "0.3.9",
+      "sockjs-client-node": "0.0.0",
+      "mocha" : "1.20.1",
+      "express" : "4.4.4"
+    },
+    "main": "websocket-multiplex-client"
+}
