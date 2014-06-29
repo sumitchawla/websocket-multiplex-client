@@ -3,6 +3,8 @@
 Its a NodeJs wrapper on client code for websocket-multiplex.  It helps you to do full end to end testing on websocket-multiplexing.
 ## How to use
 
+Below is an sample on how to connect to a sockjs server from code, establish a channel connection and send data.
+
 ```js
 
 var sockjsClient = new sockjs_client("http://127.0.0.1:8088/multiplex", 
@@ -27,6 +29,8 @@ sockjsClient.onopen = function() {
 sockjsClient.onclose = function() {
 
 ```
+
+View test.js for complete example on how to use the code. 
 
 ## Tests
 
