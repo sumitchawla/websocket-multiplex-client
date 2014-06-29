@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sumitchawla/websocket-multiplex-client.svg?branch=master)](https://travis-ci.org/sumitchawla/websocket-multiplex-client)
+
 # Websocket Multiplex Client
 
 Its a NodeJs wrapper on client code for websocket-multiplex.  It helps you to do full end to end testing on websocket-multiplexing.
