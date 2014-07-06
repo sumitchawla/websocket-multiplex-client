@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/sumitchawla/websocket-multiplex-client.svg?branch=master)](https://travis-ci.org/sumitchawla/websocket-multiplex-client)
+[![Dependency Status](https://david-dm.org/sumitchawla/websocket-multiplex-client.png)](https://david-dm.org/sumitchawla/websocket-multiplex-client) [![devDependency Status](https://david-dm.org/sumitchawla/websocket-multiplex-client/dev-status.png)](https://david-dm.org/sumitchawla/websocket-multiplex-client#info=devDependencies)
 
 # Websocket Multiplex Client
 
